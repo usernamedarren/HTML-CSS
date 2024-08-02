@@ -1,0 +1,175 @@
+body {
+  height: 3000px
+}
+
+/* .first {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  background-color: black;
+  color: white;
+} */
+
+
+/* .second { 
+  width: 100px;
+  background-color: green;
+  color: white;
+  position: fixed;
+  width: 100px;
+  right: 0px;
+  top: 0px;
+  bottom: 0px;
+} */
+
+
+/* .third {
+  position: fixed;
+  background-color: black;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+} */
+
+
+/* .fourth {
+  position: fixed;
+  background-color: rgba(0,0,0,0.8);
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal-box {
+  background-color: white;
+  div {
+    font-family: arial;
+  }
+  border-radius: 5px;
+  padding-left: 15px;
+  padding-top: 20px;
+  padding-bottom: 21px;
+  padding-right: 200px;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 30px;
+  margin-bottom: 12px;
+}
+
+.text {
+  margin-bottom: 12px;
+} */
+
+
+/* .header {
+  position: fixed;
+  top: 10px;
+  right: 70px;
+  left: 70px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.profile {
+  display: flex;
+  align-items: center;
+}
+
+.picture {
+  height: 50px;
+  width: 50px;
+  object-fit: cover;
+  border-radius: 25px;
+  margin-right: 10px;
+}
+
+.name {
+  font-family: arial;
+  font-weight: bold;
+}
+
+.add {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 90px;
+  border: none;
+  background-color: rgb(58, 93, 247);
+  color: white;
+  font-weight: bold;
+  border-radius: 5px;
+  margin-right: 5px;
+}
+
+.message {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 90px;
+  border: none;
+  background-color: rgb(226, 226, 226);
+  border-radius: 5px;
+  font-weight: bold;
+} */
+
+.sidebar-1 {
+  top: 0px;
+  bottom: 0px;
+  left: 0px;
+  position: fixed;
+  background-color: rgb(49, 49, 49);
+  width: 70px;
+  padding-top: 15px;
+}
+
+.profile-picture {
+  height: 50px;
+  width: 50px;
+  object-fit: cover;
+  border-radius: 25px;
+  margin-left: 10px;
+  margin-bottom: 5px;
+}
+
+.sidebar-2 {
+  background-color: rgb(70, 70, 70);
+  position: fixed;
+  top: 0px;
+  bottom: 0px;
+  left: 70px;
+  width: 200px;
+  padding-top: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  div {
+    font-family: Arial, Helvetica, sans-serif;
+  }  
+}
+
+.div-1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.info {
+  color: white;
+  font-weight: bold;
+  font-size: 13px;
+}
+
+.plus { 
+  color: gray;
+  font-size: 25px;
+}
+.text {
+  color: gray;
+  font-size: 17px;
+  margin-bottom: 16px;
+}

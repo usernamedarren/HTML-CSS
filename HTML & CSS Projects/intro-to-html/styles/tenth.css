@@ -1,0 +1,84 @@
+.div-1 {
+  display: grid;
+  grid-template-columns: 200px 75px;
+  margin-top: 30px;
+}
+
+.div-2 {
+  display: grid;
+  grid-template-columns: 50px 1fr 75px;
+  margin-top: 30px;
+}
+
+.div-3 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  column-gap: 20px;
+  row-gap: 10px;
+  margin-top: 30px;
+}
+
+.all-mutual {
+  margin-top: 30px;
+  display: grid;
+  grid-template-columns: 180px 180px 180px;
+  column-gap: 30px;
+}
+
+.mutual-1, .mutual-2, .mutual-3 { 
+  font-family: Arial, Helvetica, sans-serif;
+  box-shadow: 0 0 7px rgba(0,0,0,0.3);
+  padding-bottom: 10px;
+  p, button {
+    margin-left: 7px;
+  }
+}
+
+.cat {
+  width: 180px;
+  height: 210px;
+  object-fit: cover;
+}
+
+.name {
+  margin-top: 6px;
+  margin-bottom: 2px;
+  font-size: 18px;
+  vertical-align: top;
+}
+
+.mutual-friend-row {
+  display: grid;
+  grid-template-columns: 25px 1fr;
+  padding-left: 5px;
+  align-items: center;
+  margin-top: 5px;
+}
+
+.profile {
+  width: 25px;
+  height: 25px;
+  object-fit: cover;
+  border-radius: 15px;
+  vertical-align: middle;
+}
+
+.mutual-friend {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 14px;
+  color:rgb(119, 118, 118);
+}
+
+.add-friend {
+  margin-top: 9px;
+  border: none;
+  color: white; 
+  background-color: rgb(58, 94, 252);
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border-radius: 4px;
+  font-size: 15px;
+}    

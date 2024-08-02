@@ -1,0 +1,53 @@
+.text-1{
+  color: rgb(0,113,133);
+}
+
+.text-1:hover{
+  color: rgb(255,164,28);
+  transition: color 0.15s;
+}
+.text-2{
+  font-size:24px;
+  font-weight: bold;
+}
+.text-3{
+  font-weight:bold;
+  color: rgb(0,118,0);
+  font-size: 18px;
+}
+.button-1{
+  background-color: rgb(255,216,20);
+  border: none;
+  height: 26px;
+  width: 110px;
+  border-radius: 13px;
+  font-size: 13px;
+}
+.button-1:hover{
+  background-color: rgb(238, 201, 11);
+  transition: background-color 0.15s;
+}
+
+.button-1:active{
+  opacity: 0.7;
+  transition: opacity 0.15s;
+}
+
+.button-2{
+  background-color: rgb(255,164,28);
+  border: none;
+  height: 26px;
+  width: 110px;
+  border-radius: 13px;
+  font-size: 13px;
+}
+
+.button-2:hover{
+  background-color: rgb(255, 153, 0);
+  transition: background-color 0.15s;
+}
+
+.button-2:active{
+  opacity: 0.7;
+  transition: opacity 0.15s;
+}

@@ -1,0 +1,157 @@
+p {
+  margin-bottom: 0;
+  margin-top: 0;
+  font-family: Arial, sans-serif;
+}
+
+.tahoma {
+  font-family: tahoma;
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 25px;
+}
+
+.arial-1 {
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.sales {
+  color: red;
+  font-style: italic;
+  margin-bottom: 25px;
+}
+
+.verdana {
+  font-family: verdana;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.beginner {
+  font-family: verdana;
+  color: gray;
+  font-size: 15;
+  margin-bottom: 12px;
+}
+
+.in {
+  font-family: verdana;
+  width: 300px;
+  margin-bottom: 14px;
+}
+
+.button {
+  font-family: verdana;
+  color: white;
+  background-color: rgb(0, 152, 0);
+  border: none;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 13px;
+  padding-right: 13px;
+  border-radius: 6px;
+  margin-bottom: 25px;
+}
+
+.arial-2 {
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.see {
+  font-size: 14;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.learn {
+  font-size: 14;
+  text-align: center;
+  color: rgb(119, 119, 253);
+  margin-bottom: 25px;
+}
+
+.exercise-5e {
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.new {
+  color: orange;
+  font-weight: bold;
+  margin-bottom: 5px;
+  font-size: 14px;
+}
+
+.macbook {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.supercharged { 
+  font-weight: bold;
+  font-size: 35px;
+  margin-bottom: 8px;
+}
+
+.from {
+  margin-bottom: 15px;
+}
+
+.buy {
+  background-color: rgb(52, 115, 224);
+  padding-right: 12px;
+  padding-left: 12px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 30px;
+  color: white;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.usd-value {
+  font-size: 27px;
+  margin-bottom: 5px;
+}
+
+.usd {
+  font-size: 16px;
+  color: gray;
+}
+
+.plus {
+  color: green;
+  margin-bottom: 5px;
+}
+
+.after {
+  color: gray;
+  margin-bottom: 25px;
+}
+
+.minus {
+  color: red;
+}
+
+.free {
+  font-weight: bold;
+}
+
+.free-2 {
+  color: gray;
+  font-weight: normal;
+}
+
+.as{
+  margin-top: 5px;
+  margin-bottom: 17px;
+  width: 500px;
+}
+
+.chp {
+  color: rgb(52, 115, 224);
+}

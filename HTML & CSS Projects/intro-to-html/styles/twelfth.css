@@ -1,0 +1,180 @@
+p {
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+.container-1 {
+  display: flex;
+  height: 50px;
+  margin-bottom: 50px;
+}
+
+.first-1 {
+  background-color: lightpink;
+  display: flex;
+  width: 100px;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-1 {
+  background-color: black;
+  color: white;
+}
+
+.second-1 {
+  background-color: lightblue;
+  width: 200px;
+}
+
+
+.container-2 {
+  display: flex;
+  height: 50px;
+  margin-bottom: 50px;
+}
+
+.first-2 {
+  background-color: lightpink;
+  display: flex;
+  width: 100px;
+  justify-content: center;
+  align-items: center;
+}
+
+.second-flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.text-2 {
+  background-color: black;
+  color: white;
+}
+
+.second-2 {
+  background-color: lightblue;
+  width: 200px;
+}
+
+
+.container-3 {
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+  font-family: roboto;
+  width: 400px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-bottom: 50px;
+}
+
+.all-inboxes {
+  color: gray;
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+
+.inbox {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.profile-picture {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 25px;
+}
+
+.content {
+  margin-left: 15px;
+  width: 450px;
+  p {
+    margin-bottom: 1px;
+  };
+}
+
+.author {
+  display: flex;
+  justify-content: space-between;
+} 
+
+.time {
+  color: gray;
+  font-size: 14px;
+}
+
+.name {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.header {
+  font-weight: bold;
+  font-size: 17px;
+}
+
+.text {
+  color: gray
+}
+
+
+.container-4 {
+  width: 400px;
+  display: flex;
+  font-family: roboto;
+  margin-bottom: 1000px;
+}
+
+.picture-container {
+  align-items: top;
+  justify-content: center;
+}
+
+.tweet {
+  margin-bottom: 15px;
+}
+
+.content-1 {
+  margin-left: 10px;
+}
+
+.sentence {
+  font-size: 15x;
+}
+
+.youtube {
+  display: flex;
+  border-width: 1px;
+  border-color: rgb(221, 221, 221);
+  border-style: solid;
+  border-radius: 15px;
+  overflow: hidden;
+  align-items: center;
+  height: 90px;
+}
+
+.thumbnail {
+  background-color: rgb(218, 218, 218);
+  width: 165px;
+  height: 130px;
+}
+
+.youtube-content {
+  margin-left: 15px;
+  vertical-align: middle;
+}
+
+.link {
+  color: gray;
+  font-size: 15px;
+  margin-bottom: 5px;
+}
+
+.title {
+  font-size: 15px;
+}

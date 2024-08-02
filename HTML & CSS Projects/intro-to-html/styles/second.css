@@ -1,0 +1,137 @@
+.uber{
+  background-color: black;
+  color: white;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 15px;
+  padding-right:15px;
+  border: none;
+  font-size: 11;
+  cursor: pointer;
+}
+
+.uber:hover{
+  opacity: 0.8;
+  transition: background-color 0.15s;
+}
+
+.amazon{
+  background-color: rgb(255,216,20);
+  border: none;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 27px;
+  padding-right:27px;
+  border-radius: 14px;
+  font-size:13px;
+  cursor: pointer;
+}
+
+.amazon:hover{
+  background-color: rgb(246, 205, 0);
+  transition: background-color 0.15s;
+}
+
+.github{
+  background-color: rgb(46,164,79);
+  border: none;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 16px;
+  padding-right:16px;
+  border-radius: 5px;
+  font-size:13px;
+  font-weight:bold;
+  color: white;
+  font-size: 12px;
+  cursor: pointer;
+}
+
+.github:hover{
+  box-shadow: 0 2px 5px rgba(0,0,0,0.15);
+  transition: box-shadow 0.15s;
+}
+
+.bootstrap-1{
+  background-color: rgb(121,82,179);
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 16px;
+  padding-right:16px;
+  border-radius: 4px;
+  font-size:12px;
+  font-weight:bold;
+  color: white;
+  font-size: 12px;
+  cursor: pointer;
+}
+
+.bootstrap-1:hover{
+  background-color: rgb(105, 70, 157);
+  transition: background-color 0.15s;
+}
+
+.bootstrap-2{
+  background-color: white;
+  border-color: rgb(108,117,125);
+  border-style: solid;
+  border-width: 1px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 18px;
+  padding-right:18px;
+  border-radius: 4px;
+  font-size:13px;
+  font-weight:bold;
+  color: rgb(108,117,125);
+  font-size: 12px;
+  cursor: pointer;
+}
+
+.bootstrap-2:hover{
+  background-color: rgb(108,117,125);
+  color: white;
+  transition: background-color 0.15s, color 0.15s;
+}
+
+.linkedin-1{
+  background-color: rgb(10,102,194);
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 22px;
+  padding-right:22px;
+  font-weight:bold;
+  color: white;
+  border-radius: 17px;
+  font-size: 13px;
+  cursor: pointer;
+}
+
+.linkedin-1:hover{
+  background-color: rgb(6, 84, 162);
+  transition: background-color 0.15s
+}
+
+.linkedin-2{
+  background-color: white;
+  border-color: rgb(10,102,194);
+  border-style: solid;
+  border-width: 1px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 16px;
+  padding-right:16px;
+  font-weight:bold;
+  color: rgb(10,102,194);
+  border-radius: 16px;
+  font-size: 13px;
+  cursor: pointer;
+}
+
+.linkedin-2:hover{
+  border-width: 2px;
+  background-color: rgb(221, 237, 252);
+  transition: border-width 0.02s, background-color 0.15s;
+}
